@@ -1,0 +1,30 @@
+p{
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: white;
+    background-color: blueviolet;
+}
+h1,h3{
+    color: red;
+    font-family: Arial;
+}
+ul{
+    color: gold;
+    font-size: 20px;
+    font-family: Algerian;
+}
+ol{
+    color: indigo;
+    font-family: "Bauhaus 93";
+    font-size: 20px;
+}
+#kenya{
+    color: chocolate;
+    font-family: "Arial Rounded MT Bold";
+    font-size: 40px;
+}
+#uganda{
+    color: lightcoral;
+    font-family: "Baskerville Old Face";
+    font-size: 40px;
+}
